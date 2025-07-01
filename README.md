@@ -64,8 +64,6 @@ g++ -std=c++11 -o stock_simulator beginning.cpp
 - The initial balance is set to $10,000.
 - All data is stored in memory; no persistent storage is used for transactions or portfolio.
 
-## Authors
-- Developed by [Your Name]
 
 ## License
 This project is for educational purposes.
